@@ -1,0 +1,7 @@
+flask
+numpy
+pandas
+joblib
+supabase
+werkzeug
+scikit-learn
